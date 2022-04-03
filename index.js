@@ -40,10 +40,10 @@ const client = new Discord.Client({
     ],
     presence: {
       activity: {
-        name: `+help | musicium.eu`, 
+        name: `-help | Invite Me`, 
         type: "PLAYING", 
       },
-      status: "online"
+      status: "dnd"
     }
 });
 //BOT CODED BY: Tomato#6966
